@@ -37,6 +37,9 @@ jobs:
 
       # - name: Debug directory contents
       #   run: ls -al
+      
+      - name: Add CNAME
+        run: echo "smcsalumni.org" > ./out/CNAME
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
