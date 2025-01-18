@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/hacked/Documents/GitHub/phs-alumni-site/src/app/layout":["static/media/ae0a0c671023eecc-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
